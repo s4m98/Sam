@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4m98
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m certified Ethical Hacker (C|EH)
+- 💞️ My Hobbies is Explore New Technology...
 - 📫 
 
 <!---
